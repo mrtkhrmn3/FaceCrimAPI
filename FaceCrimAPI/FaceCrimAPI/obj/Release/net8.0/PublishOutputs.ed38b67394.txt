@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\predict\new_resnet18_terror_model.pth
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\predict\predict.py
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\predict\requirements.txt
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\FaceCrimAPI.exe
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\FaceCrimAPI.dll
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\FaceCrimAPI.deps.json
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\FaceCrimAPI.runtimeconfig.json
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\FaceCrimAPI.pdb
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mert\source\repos\FaceCrimAPI\FaceCrimAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

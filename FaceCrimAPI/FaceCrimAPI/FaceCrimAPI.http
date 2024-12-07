@@ -1,0 +1,6 @@
+@FaceCrimAPI_HostAddress = http://localhost:5185
+
+GET {{FaceCrimAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
